@@ -1,0 +1,19 @@
+.cartimage{
+    scale: 1.3;
+}
+
+.whenlogin{
+    margin-right: 30px;
+    font-size: 14px;
+    /* font-weight: 500; */
+    color: white;
+    /* display: flex; */
+    /* column-gap: 10px; */
+}
+
+.logout{
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+}
