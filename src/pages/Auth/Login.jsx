@@ -96,7 +96,7 @@ const Login = () => {
                 value={formData.email}
                 onChange={handleChange}
               />
-              <label className="my-label">Enter your email</label>
+              <label className="my-label">Enter your email address</label>
             </div>
             <div className="input-field">
               <input
